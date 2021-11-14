@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Welcome](https://github.com/RMDern/RMDern/blob/main/758X.gif)
 <!--
 **RMDern/RMDern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
