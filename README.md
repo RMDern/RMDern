@@ -1,9 +1,7 @@
-<p align=center>
-  ![Welcome](https://github.com/RMDern/RMDern/blob/main/7U65.gif)
-</p>
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=RMDern&show_icons=true&theme=merko">
-</p>
+
+![Welcome](https://github.com/RMDern/RMDern/blob/main/7U65.gif)
+ <img align=left src="https://github-readme-stats.vercel.app/api?username=RMDern&show_icons=true&theme=merko">
+
 <!--
 **RMDern/RMDern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
