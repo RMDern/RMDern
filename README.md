@@ -1,4 +1,4 @@
-![Welcome](https://github.com/RMDern/RMDern/blob/main/EHil.gif)
+![Welcome](https://github.com/RMDern/RMDern/blob/main/7U65.gif)
 
 <!--
 **RMDern/RMDern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
