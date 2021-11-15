@@ -24,7 +24,7 @@
   <a href="https://threejs.org/">
     <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
   </a>
-  <br>
+  <hr>
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
@@ -37,7 +37,7 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   </a>
-  <br>
+  <hr>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </a><a href="https://www.postgresql.org/">
@@ -49,6 +49,7 @@
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   </a>
+  <hr>
  </div>
 </p>
 
