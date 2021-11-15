@@ -37,6 +37,7 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   </a>
+  <br>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </a><a href="https://www.postgresql.org/">
