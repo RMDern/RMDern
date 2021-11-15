@@ -16,9 +16,13 @@
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   </a>
+  <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  </a>
   <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
   </a>
+  <br>
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
@@ -33,21 +37,18 @@
   </a>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  </a><a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
-  <a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <a href="https://www.elastic.co/">
+    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   </a>
+  <br>
   <a href="https://www.electronjs.org/">
     <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
   </a>
   <a href="https://threejs.org/">
     <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
-  </a>
-    <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
-  <a href="https://www.elastic.co/">
-    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
