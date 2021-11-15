@@ -1,3 +1,6 @@
+![Welcome](https://github.com/RMDern/RMDern/blob/main/7U65.gif)
+
+<img align=left src="https://github-readme-stats.vercel.app/api?username=RMDern&show_icons=true&theme=merko">
 
 <p align="center">
  <div>
@@ -22,7 +25,13 @@
   <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
   </a>
-  <br>
+  <a href="https://www.electronjs.org/">
+    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
+  </a>
+  <a href="https://threejs.org/">
+    <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
+  </a>
+  <br><br>
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
@@ -43,13 +52,6 @@
   <a href="https://www.elastic.co/">
     <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   </a>
-  <br>
-  <a href="https://www.electronjs.org/">
-    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
-  </a>
-  <a href="https://threejs.org/">
-    <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
-  </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
@@ -58,6 +60,3 @@
   </a>
  </div>
 </p>
-
-![Welcome](https://github.com/RMDern/RMDern/blob/main/7U65.gif)
-<img align=left src="https://github-readme-stats.vercel.app/api?username=RMDern&show_icons=true&theme=merko">
