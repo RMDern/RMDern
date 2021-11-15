@@ -18,9 +18,6 @@
   <a href="https://angular.io/">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   </a>
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
-  </a>
   <a href="https://www.electronjs.org/">
     <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
   </a>
@@ -47,9 +44,6 @@
   </a>
   <a href="https://www.elastic.co/">
     <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
